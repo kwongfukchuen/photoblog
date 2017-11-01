@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: PhotoJournal
 email: ""
 description: "Photo Journal"
 url: "https://kwongfukchuen.github.io"
-baseurl: "/photoblog"
+baseurl: "/photojournal"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://kwongfukchuen.github.io/photorama/gallery/"  
-  - JOURNAL: "https://kwongfukchuen.github.io/photorama/journal/"
-  - ABOUT: "https://kwongfukchuen.github.io/photorama/about/"
+  - GALLERY: "https://kwongfukchuen.github.io/photojournal/gallery/"  
+  - JOURNAL: "https://kwongfukchuen.github.io/photojournal/journal/"
+  - ABOUT: "https://kwongfukchuen.github.io/photojournal/about/"
 
 # All translation keys
 translations:
